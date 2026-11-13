@@ -15,7 +15,7 @@
     </p>
     <p align="center">
         <a href="https://skymail.ink">Live Demo</a> · <a href="https://docs.skymail.ink/en/">Deployment Guide</a> ·
-        <a href="/README.md">简体中文</a> | English
+        <a href="/README.md">简体中文</a> | English | <a href="/README-ja.md">日本語</a>
     </p>
     <p align="center">
         <a href="https://trendshift.io/repositories/20459" target="_blank" >
@@ -59,7 +59,7 @@ With only one domain, you can create multiple different email addresses, similar
 
 - **💻 Responsive Design**: Automatically adapts to both desktop and most mobile browsers.
 
-- **📧 Email Sending**: Integrated with Resend, supporting bulk email sending and attachments.
+- **📧 Email Sending**: Integrated with Cloudflare Email and Resend for sending email.
 
 - **🛡️ Admin Features**: Admin controls for user and email management with RBAC-based access control.
 
@@ -91,7 +91,7 @@ With only one domain, you can create multiple different email addresses, similar
 
 - **UI Framework**: [Element Plus](https://element-plus.org/)
 
-- **Email Service**: [Resend](https://resend.com/)
+- **Email Sending**: [Cloudflare Email](https://developers.cloudflare.com/email-service/) / [Resend](https://resend.com/)
 
 - **Cache**: [Cloudflare KV](https://developers.cloudflare.com/kv/)
 
